@@ -1,0 +1,10 @@
+C:\ProjectRobin\Presentations\RepositoryPatternExample\DataLayer\bin\Debug\netstandard2.0\DataLayer.deps.json
+C:\ProjectRobin\Presentations\RepositoryPatternExample\DataLayer\bin\Debug\netstandard2.0\DataLayer.dll
+C:\ProjectRobin\Presentations\RepositoryPatternExample\DataLayer\obj\Debug\netstandard2.0\DataLayer.csprojResolveAssemblyReference.cache
+C:\ProjectRobin\Presentations\RepositoryPatternExample\DataLayer\obj\Debug\netstandard2.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\ProjectRobin\Presentations\RepositoryPatternExample\DataLayer\obj\Debug\netstandard2.0\DataLayer.AssemblyInfoInputs.cache
+C:\ProjectRobin\Presentations\RepositoryPatternExample\DataLayer\obj\Debug\netstandard2.0\DataLayer.AssemblyInfo.cs
+C:\ProjectRobin\Presentations\RepositoryPatternExample\DataLayer\bin\Debug\netstandard2.0\DataLayer.pdb
+C:\ProjectRobin\Presentations\RepositoryPatternExample\DataLayer\obj\Debug\netstandard2.0\DataLayer.dll
+C:\ProjectRobin\Presentations\RepositoryPatternExample\DataLayer\obj\Debug\netstandard2.0\DataLayer.pdb
+C:\ProjectRobin\Presentations\RepositoryPatternExample\DataLayer\bin\Debug\netstandard2.0\DataLayer.dll.config

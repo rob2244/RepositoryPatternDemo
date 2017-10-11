@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHarness", "DataPopulator\TestHarness.csproj", "{755A5E00-98A5-4399-8836-528FF3822F4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "RepositoryPatternExample.DataLayer\DataLayer.csproj", "{C8AC24FB-6899-48E2-8446-859071E384F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{755A5E00-98A5-4399-8836-528FF3822F4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{755A5E00-98A5-4399-8836-528FF3822F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{755A5E00-98A5-4399-8836-528FF3822F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{755A5E00-98A5-4399-8836-528FF3822F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8AC24FB-6899-48E2-8446-859071E384F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8AC24FB-6899-48E2-8446-859071E384F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8AC24FB-6899-48E2-8446-859071E384F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8AC24FB-6899-48E2-8446-859071E384F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C1574E9-8599-4155-9ACD-D7EC60A6A731}
+	EndGlobalSection
+EndGlobal

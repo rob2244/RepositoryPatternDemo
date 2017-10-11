@@ -1,0 +1,13 @@
+C:\ProjectRobin\Presentations\RepositoryPatternExample\DataPopulator\bin\Debug\DataPopulator.exe.config
+C:\ProjectRobin\Presentations\RepositoryPatternExample\DataPopulator\bin\Debug\DataPopulator.exe
+C:\ProjectRobin\Presentations\RepositoryPatternExample\DataPopulator\bin\Debug\DataPopulator.pdb
+C:\ProjectRobin\Presentations\RepositoryPatternExample\DataPopulator\bin\Debug\EntityFramework.dll
+C:\ProjectRobin\Presentations\RepositoryPatternExample\DataPopulator\bin\Debug\EntityFramework.SqlServer.dll
+C:\ProjectRobin\Presentations\RepositoryPatternExample\DataPopulator\bin\Debug\RepositoryPatternExample.DataLayer.dll
+C:\ProjectRobin\Presentations\RepositoryPatternExample\DataPopulator\bin\Debug\RepositoryPatternExample.DataLayer.pdb
+C:\ProjectRobin\Presentations\RepositoryPatternExample\DataPopulator\bin\Debug\EntityFramework.xml
+C:\ProjectRobin\Presentations\RepositoryPatternExample\DataPopulator\bin\Debug\EntityFramework.SqlServer.xml
+C:\ProjectRobin\Presentations\RepositoryPatternExample\DataPopulator\obj\Debug\TestHarness.csprojResolveAssemblyReference.cache
+C:\ProjectRobin\Presentations\RepositoryPatternExample\DataPopulator\obj\Debug\TestHarness.csproj.CoreCompileInputs.cache
+C:\ProjectRobin\Presentations\RepositoryPatternExample\DataPopulator\obj\Debug\DataPopulator.exe
+C:\ProjectRobin\Presentations\RepositoryPatternExample\DataPopulator\obj\Debug\DataPopulator.pdb
